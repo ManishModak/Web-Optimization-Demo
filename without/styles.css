@@ -1,0 +1,29 @@
+/* styles.css */
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    margin: 0 auto;
+    align-items: center;
+    max-width: 600px;
+}
+
+h1 {
+    color: #e61c1c;
+    text-align: center;
+    font-size: 30px;
+}
+
+p {
+    color: #e61c1c;
+    text-align: center;
+}
+
+div {
+    padding-bottom: 30px;
+}
+
+img {
+    padding-left: 30px;
+    width: 150px;
+    height: 150px;
+}
